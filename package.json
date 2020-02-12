@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/secalquin/mongo-node.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/secalquin/mongo-node/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/secalquin/mongo-node#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6",
